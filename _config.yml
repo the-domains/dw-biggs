@@ -1,0 +1,23 @@
+name: dw.biggs
+favicon: null
+layout_spectrum: 0.6358178635127842
+typography_spectrum: 0.24062533769756556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6020918574649841
+  lightness: 0.189593190792948
+  saturation: 0.508662509964779
+  rhythmicContrast: 0.07632768643088639
+purpose: []
